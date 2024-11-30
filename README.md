@@ -1,6 +1,6 @@
 ## Chris Weed
 
-I'm a full stack engineer but I absolutely love working the frontend code, user experience and overall feel of the application. I'm always building up new and random projects for myself that are typically half-baked or incomplete.  All public repos are just experiments and playings to learn something new or prove out an idea.  My "real" work is done in private repos and include
+I'm a full stack engineer but I absolutely love working the frontend code, user experience and overall feel of the application. I'm always building up new and random projects for myself that are typically half-baked or incomplete.  All public repos are just experiments and playings to learn something new or prove out an idea.  My "real" work is done in private repos for the companies I work for. But here are a few of the fun projects I've worked on in the past as "Just for fun" or "Let me see if I can do X".
 
 ### LineUp Field Manager
 
