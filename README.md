@@ -10,6 +10,6 @@ The [LineUp Field Manager](https://app.lineup.soccer) was built to help me manag
 
 Built with my son during a MakeCode Arcade hackathon. This game is part of many of my projects that I do to simply learn and/or simply teach. I used the learnings from this to prepare for classes I taught for middle school aged students.  This also inspired some fun hacking with handheld devices. It's a pretty fun game go check it out: [Greedy Pirates](https://arcade.makecode.com/S66008-45860-30012-86138)
 
-## 16 Colors
+### 16 Colors
 
 A fun side project that helped me learn and excersise some frontend-only limitations. I was inspired by some homework my kids where they had to do math problems to fill in a color-by-number piece of art. With my love of pixelart and wanting to do some "known" sprites, I came up with a way for people to upload a pixelart sprite and have it turn into a coloring sheet that you can print out. It has some limits but I wanted to see what some of the client-only file handling could do around parsing the image and then producing a printable grid. I even found a nice library that had a pretty solid color-to-name coversion! Check it out: [16 Colors](http://www.16colors.com/).
