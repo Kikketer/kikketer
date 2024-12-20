@@ -6,6 +6,10 @@ I'm a full stack engineer but I absolutely love working the frontend code, user 
 
 The [LineUp Field Manager](https://app.lineup.soccer) was built to help me manage painting soccer fields for my local club. It started out as a project to see how far I could take a PWA including things like Push Notifications and get exposure to other frameworks such as Solid, NextJS and Ionic Framework. It's now currently an Ionic PWA that is used by the club to help predict when fields need to be re-painted and helps coordinate when a field is needed for games.
 
+### WTFTimezone
+
+I built this super minimal application just to help me work out and explain timezones to people and shows not only the UTC time and "local to you" time. I've spent a ton of time (pun?) and an embarrassing amount of time thinking out timezones and what that means for people when working on international applications. I've seen some horrifying code where dates are "just strings that look like dates" and totally incorrect assumptions where things were accidentally working because of the location of the server. Anyway it's just mostly a tongue-in-cheek site that I was inspired to slap together in a few hours. [WTFTimezone](https://wtftime.zone)
+
 ### Greedy Pirates
 
 Built with my son during a MakeCode Arcade hackathon. This game is part of many of my projects that I do to simply learn and/or simply teach. I used the learnings from this to prepare for classes I taught for middle school aged students.  This also inspired some fun hacking with handheld devices. It's a pretty fun game go check it out: [Greedy Pirates](https://arcade.makecode.com/S66008-45860-30012-86138)
