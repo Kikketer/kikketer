@@ -10,6 +10,10 @@ The [LineUp Field Manager](https://app.lineup.soccer) was built to help me manag
 
 I built this super minimal application just to help me work out and explain timezones to people and shows not only the UTC time and "local to you" time. I've spent a ton of time (pun?) and an embarrassing amount of time thinking out timezones and what that means for people when working on international applications. I've seen some horrifying code where dates are "just strings that look like dates" and totally incorrect assumptions where things were accidentally working because of the location of the server. Anyway it's just mostly a tongue-in-cheek site that I was inspired to slap together in a few hours. [WTFTimezone](https://wtftime.zone)
 
+### Swashed
+
+I took the rules of a resonably fun but overly complicated boardgame called Swashbuckler and created a hybrid style boardgame. The main goal of this project was to learn some Python, Ruby on Rails and Deno but eventually turned into simply Deno + Svelte. The other trial of this project was to see how far AI could take a project and the results were mostly "it helps, but can't get all of the work done". At one point I was fixing bugs by simply asking AI to fix it, and every time it would undo the last fix, eventually I just got my hands dirty and fixed it myself. There's no public repo for this yet and it's mostly just an experiment and learning platform, the goal is to run it on a raspberry pi and have players join with their phones on it's own wifi network. Stay tuned for updates to this exciting project!
+
 ### Greedy Pirates
 
 Built with my son during a MakeCode Arcade hackathon. This game is part of many of my projects that I do to simply learn and/or simply teach. I used the learnings from this to prepare for classes I taught for middle school aged students.  This also inspired some fun hacking with handheld devices. It's a pretty fun game go check it out: [Greedy Pirates](https://arcade.makecode.com/S66008-45860-30012-86138)
