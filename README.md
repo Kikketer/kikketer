@@ -25,6 +25,17 @@ Learned and Explored
 - Solidified Github pages along with custom domains
 - How quickly an app can be built when combined with AI
 
+### Dawn E Photography
+
+A simple static website using Eleventy to promote my wifes photography business. This was a fun learning opportunity around media handling, media sizing with the `<imgsrc`, SEO and minimum page generation. It's created using Pug templating language but the JS and CSS are just vanilla. It was nice and relieving to build a site with standard library imports, reminded me of the jQuery days. The result is a nice merge of simplicity, speed and cohesion between the static marketing page and the gallery platform she uses. [Dawn E Photography](https://dawnephotos.com/)
+
+Learned and Explored
+
+- Eleventy and the build process
+- SEO and social network cards
+- Minimum bundle sizes
+- Image load on scroll and <imgsrc tag
+
 ### Swashed
 
 I took the rules of a resonably fun but overly complicated boardgame called Swashbuckler and created a hybrid style boardgame. The main goal of this project was to learn some Python, Ruby on Rails and Deno but eventually turned into simply Deno + Svelte. The other trial of this project was to see how far AI could take a project and the results were mostly "it helps, but can't get all of the work done". At one point I was fixing bugs by simply asking AI to fix it, and every time it would undo the last fix, eventually I just got my hands dirty and fixed it myself. There's no public repo for this yet and it's mostly just an experiment and learning platform, the goal is to run it on a raspberry pi and have players join with their phones on it's own wifi network. Stay tuned for updates to this exciting project!
