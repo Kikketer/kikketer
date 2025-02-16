@@ -57,9 +57,9 @@ Learned and Explored
 - The inner workings of MakeCode Arcade such as the asset format
 - Mostly so I can teach it to middle-school students
 
-### 16 Colors
+### Color by Pixel
 
-A fun side project that helped me learn and excersise some frontend-only limitations. I was inspired by some homework my kids where they had to do math problems to fill in a color-by-number piece of art. With my love of pixelart and wanting to do some "known" sprites, I came up with a way for people to upload a pixelart sprite and have it turn into a coloring sheet that you can print out. It has some limits but I wanted to see what some of the client-only file handling could do around parsing the image and then producing a printable grid. I even found a nice library that had a pretty solid color-to-name coversion! Check it out: [16 Colors](http://www.16colors.com/).
+A fun side project that helped me learn and excersise some frontend-only limitations. I was inspired by some homework my kids where they had to do math problems to fill in a color-by-number piece of art. With my love of pixelart and wanting to do some "known" sprites, I came up with a way for people to upload a pixelart sprite and have it turn into a coloring sheet that you can print out. It has some limits but I wanted to see what some of the client-only file handling could do around parsing the image and then producing a printable grid. I even found a nice library that had a pretty solid color-to-name coversion! Check it out: [Color by Pixel](https://kikketer.github.io/color-by-pixel/).
 
 Learned and Explored
 
