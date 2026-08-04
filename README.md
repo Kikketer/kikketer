@@ -1,6 +1,10 @@
 ## Chris Weed
 
-I'm a full stack engineer but I absolutely love working the frontend code, user experience and overall feel of the application. I'm always building up new and random projects for myself that are typically half-baked or incomplete.  All public repos are just experiments and playings to learn something new or prove out an idea.  My "real" work is done in private repos for the companies I work for. But here are a few of the fun projects I've worked on in the past as "Just for fun" or "Let me see if I can do X".
+I'm a full stack engineer focused on NextJS, Agentic coding with an eye for User Experience. I'm always building up new and random projects for myself that are typically half-baked or incomplete.  All public repos are just experiments and playings to learn something new or prove out an idea.  My "real" work is done in private repos for the companies I work for. But here are a few of the fun projects I've worked on in the past as "Just for fun" or "Let me see if I can do X".
+
+### For The Learn of It
+
+This is a site where I've put several of my experiments but also learning tools for students I teach. This project helps students learn about the ins-and-outs of web development with a custom built client/server side editor with live code editing. MakeCode Arcade is another focus of the work in here as that's the primary coding tool I use to teach. I've built AI assisted sprite, image, animation and music creation tools. These are all custom built tools for me to inspire students (and also learn something myself).
 
 ### LineUp Field Manager
 
