@@ -4,7 +4,7 @@ I'm a full stack engineer focused on NextJS, Agentic coding with an eye for User
 
 ### For The Learn of It
 
-This is a site where I've put several of my experiments but also learning tools for students I teach. This project helps students learn about the ins-and-outs of web development with a custom built client/server side editor with live code editing. MakeCode Arcade is another focus of the work in here as that's the primary coding tool I use to teach. I've built AI assisted sprite, image, animation and music creation tools. These are all custom built tools for me to inspire students (and also learn something myself).
+[For The Learn of It](https://forthelearnofit.com) is a place I've put several of my experiments but also learning tools for students I teach. This project helps students learn about the ins-and-outs of web development with a custom built client/server side editor with live code editing. MakeCode Arcade is another focus of the work in here as that's the primary coding tool I use to teach. I've built AI assisted sprite, image, animation and music creation tools. These are all custom built tools for me to inspire students (and also learn something myself).
 
 ### LineUp Field Manager
 
