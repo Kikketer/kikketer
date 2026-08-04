@@ -20,6 +20,7 @@ Learned and Explored:
 
 ### WTFTimezone
 
+(deprecated)
 I built this super minimal application just to help me work out and explain timezones to people and shows not only the UTC time and "local to you" time. I've spent a ton of time (pun?) and an embarrassing amount of time thinking out timezones and what that means for people when working on international applications. I've seen some horrifying code where dates are "just strings that look like dates" and totally incorrect assumptions where things were accidentally working because of the location of the server. Anyway it's just mostly a tongue-in-cheek site that I was inspired to slap together in a few hours. [WTFTimezone](https://wtftime.zone)
 
 Learned and Explored
