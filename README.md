@@ -6,6 +6,14 @@ I'm a full stack engineer focused on NextJS, Agentic coding with an eye for User
 
 [For The Learn of It](https://forthelearnofit.com) is a place I've put several of my experiments but also learning tools for students I teach. This project helps students learn about the ins-and-outs of web development with a custom built client/server side editor with live code editing. MakeCode Arcade is another focus of the work in here as that's the primary coding tool I use to teach. I've built AI assisted sprite, image, animation and music creation tools. These are all custom built tools for me to inspire students (and also learn something myself).
 
+### Simple Mail Merge
+
+[Simple Mail Merge](https://cjweed.com/Simple-Mail-Merge/) - a simple way to create "mail merge" aka a way to have a list of contacts and send emails individually to each. I had used Thunderbird and it's deprecated UI + an outdated extension for this in the past. I decided today that I can just create one using Electrobun.  It'll use your standard email settings (IMAP style auth) and allow you to craft a simple email that you can then send to a series of people.  Each person will receive an email addressed only to them.  Go check out other email clients out there, most say "we don't support this at all"... well now I have my own.
+
+### Object Slicer
+
+[Object Slicer](https://cjweed.com/object-slicer/) - an app for simply slicing up 3d models to be used for laser cutters. It creates either a stacked series of cuts or a "mesh".  It'll slice according to the page size you are limited to, etch the numbers for you and create solid grooves for interlocking pieces.  I built this because I was tired of the "get points for using our app" and also the paid for options. We are in an age of AI generated code, there's no need to pay for products that don't exactly fit your use case anymore.
+
 ### LineUp Field Manager
 
 The [LineUp Field Manager](https://app.lineup.soccer) was built to help me manage painting soccer fields for my local club. It started out as a project to see how far I could take a PWA including things like Push Notifications and get exposure to other frameworks such as Solid, NextJS and Ionic Framework. It's now currently an Ionic PWA that is used by the club to help predict when fields need to be re-painted and helps coordinate when a field is needed for games.
